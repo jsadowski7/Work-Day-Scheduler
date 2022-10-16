@@ -21,8 +21,8 @@ body {
     border-bottom: 10px solid black;
   }
   
-  .description {
-    white-space: pre-wrap;
+  .container {
+    padding-bottom: 30px;
   }
   
   .time-block {
@@ -30,9 +30,7 @@ body {
   }
   
   .row {
-    white-space: pre-wrap;
     height: 80px;
-    border-top: 1px solid white;
   }
   
   .hour {
@@ -40,7 +38,7 @@ body {
     color: #000000;
     border: 1px solid black;
   }
-  
+
   /* Past, Present, Future styling */
   .past {
     background-color: #d3d3d3;
