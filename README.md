@@ -27,5 +27,5 @@ Click the URL link below to visit the scheduler. Input events in different time 
 
 ### Link To Application ###
 
-[Application-Link] 
+[Application-Link] https://jsadowski7.github.io/Work-Day-Scheduler/
 
