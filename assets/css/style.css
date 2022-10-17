@@ -9,24 +9,28 @@ body {
     border: none;
     resize: none;
     color: #000000;
-    border-left: 1px solid black;
     padding: 10px;
+    padding-top: 20px;
+    border-left: 2px solid darkgrey;
   }
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
+    background-color: gainsboro;
     color: black;
     border-radius: 0;
     border-bottom: 10px solid black;
   }
-  
+
   .container {
     padding-bottom: 30px;
   }
   
   .time-block {
     text-align: center;
+    padding-top: 30px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
   }
   
   .row {
@@ -54,9 +58,15 @@ body {
     background-color: #77dd77;
     color: white;
   }
-  
+  /* Save Button styling */
   .saveBtn {
     color: white;
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-left: 25px;
+    background-color: deepskyblue;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
   }
  
   .time-slot {
