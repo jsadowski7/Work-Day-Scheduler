@@ -4,11 +4,14 @@
 ## Table of Contents ##
 
 * [Description](#description)
-    Description<a name="Description"></a>
-* [Usage]
-* Mock-Up
-* Link to Scheduler 
-* License
+    <a name="Description"></a>
+* [Usage](#usage)
+    <a name="Usage"></a>
+* [Mock-Up](#mock-up)
+    <a name="Mock-Up"></a>
+* [Link to Application](#link_to_application)
+    <a name="Link to Application"></a>
+
 
 ## Description ##
 
